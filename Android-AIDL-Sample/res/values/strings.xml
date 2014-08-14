@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, AidlSampleActivity!</string>
+    <string name="app_name">AIDL_Sample</string>
+    <string name="permission_description">AIDL Sample</string>
+</resources>
