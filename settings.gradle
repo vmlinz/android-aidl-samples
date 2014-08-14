@@ -1,1 +1,1 @@
-include ':Android-AIDL-Sample', ':Android-AIDL-Sample-Client'
+include ':Android-AIDL-Sample', ':Android-AIDL-Sample-Library', ':Android-AIDL-Sample-Client'

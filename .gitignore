@@ -2,3 +2,5 @@ local.properties
 Android-AIDL-Sample-Client/build/
 Android-AIDL-Sample/build/
 .gradle/
+Android-AIDL-Sample-Library/build/
+build/
